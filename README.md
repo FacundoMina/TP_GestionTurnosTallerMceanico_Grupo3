@@ -5,3 +5,7 @@ TP Programacion
 
 [Diagrama de clases](https://drive.google.com/file/d/12EA9GNl3RKhEREqBURMETGpLDu0f_r1Y/view?usp=sharing)
 
+[Prompts](https://drive.google.com/drive/folders/19KdQ8d43KnYxe8vgiaP3pNIsxL-AXsZP?usp=drive_link)
+
+
+
